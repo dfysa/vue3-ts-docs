@@ -12,7 +12,7 @@
 
 
 
-![GitHub License](https://img.shields.io/github/license/dfysa/vue3-ts-docs)
+![GitHub License](https://img.shields.io/github/license/dfysa/vue3-ts-docs?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/dfysa/vue3-ts-docs)
 ![NPM Version](https://img.shields.io/npm/v/vue)
  
