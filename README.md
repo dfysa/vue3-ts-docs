@@ -14,7 +14,7 @@
 
 ![GitHub License](https://img.shields.io/github/license/dfysa/vue3-ts-docs)
 ![GitHub Stars](https://img.shields.io/github/stars/dfysa/vue3-ts-docs)
-![NPM Downloads](https://img.shields.io/npm/dw/vue)
+![NPM Version](https://img.shields.io/npm/v/vue)
  
 </p>
 </p>
