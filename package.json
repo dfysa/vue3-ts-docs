@@ -2,7 +2,7 @@
   "name": "vitepress-project",
   "private": true,
   "type": "module",
-  "homepage": "https://vue3-ts-docs-rb8p-8ibvl4s85-dfysas-projects.vercel.app/",
+  "homepage": "",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",

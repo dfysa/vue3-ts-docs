@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
   title: "Vue 3 + TypeScript 学习文档",
-  description: "详细学习 Vue3 和 TypeScipt 的指南",
+  description: "详细学习 Vue3 和  TypeScipt 的指南",
   themeConfig: {
     siteTitle: "前端学习",
     logo: "/assets/logo.png",
