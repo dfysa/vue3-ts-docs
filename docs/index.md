@@ -4,7 +4,7 @@ layout: home
 hero:
  name: "前端工程化"
  text: "Vue 3 + Typescript 学习文档"
- tagline: "学习是少数人的狂欢，亦是孤独者的游戏"
+ tagline: "不问朝夕，但求至理，锐意向前，方得其真。"
  image:
   src: /assets/logo.png
   alt: Chrome 浏览器播件
