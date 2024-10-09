@@ -8,7 +8,7 @@ export default defineConfig({
     siteTitle: "前端学习",
     logo: "/assets/logo.png",
     nav: [
-      { text: "首页", link: "/" },
+      { text: "首页", link: "/index" },
 
       {
         text: "前端工程化",

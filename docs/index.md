@@ -14,7 +14,7 @@ hero:
      link: /frontend-basics/html
    - theme: alt
      text: 常见问题
-     link: /fag/
+     link: /faq/
 
 features:
   - icon:
