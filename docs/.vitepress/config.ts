@@ -5,7 +5,7 @@ export default defineConfig({
   title: "彼曦的学习文档",
   description: "去寻找吧，我把一切都放在了这里",
   themeConfig: {
-    siteTitle: "前端学习",
+    siteTitle: "学习小站",
     logo: "/assets/logo.png",
     nav: [
       { text: "首页", link: "/" },
