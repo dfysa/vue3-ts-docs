@@ -2,8 +2,8 @@
 # Hello World
 layout: home
 hero:
- name: "前端工程化"
- text: "Vue 3 + Typescript 学习文档"
+ name: "彼曦的学习小站"
+ text: "境界记录者"
  tagline: "不问朝夕，但求至理，锐意向前，方得其真。"
  image:
   src: /assets/logo.png
@@ -11,7 +11,7 @@ hero:
  actions:
    - theme: brand
      text: 快速开始
-     link: /guide/
+     link: /frontend-basics/html
    - theme: alt
      text: 常见问题
      link: /fag/
