@@ -8,13 +8,13 @@ export default defineConfig({
     siteTitle: "前端学习",
     logo: "/assets/logo.png",
     nav: [
-      { text: "首页", link: "/index" },
+      { text: "首页", link: "/" },
 
       {
         text: "前端工程化",
         items: [
           { text: "前端基础", link: "/frontend-basics/age1" },
-          { text: "Vue3", link: "/vue3/index" }, // Vue3 移入前端工程化的子目录
+          { text: "Vue3", link: "/vue3/" }, // Vue3 移入前端工程化的子目录
         ],
       },
       { text: "后端工程化", link: "/back-end/1" },
@@ -89,4 +89,7 @@ export default defineConfig({
       copyright: "Copyright  2024 fyl",
     },
   },
+// 这里是新增的配置项
+  ignoreDeadLinks: false, // 设置为 true 以忽略死链检查
+  
 });
